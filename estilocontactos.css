@@ -1,0 +1,19 @@
+form{
+ margin: 0 auto;
+ width:450px;
+ margin-bottom: 20px;
+ padding: 10px 20px;
+ border-radius: 7px;
+ background-color: rgba(255, 133,0);
+ box-sizing:border-box;
+ margin-top:20px;
+ text-align: center;}
+
+label, textarea{
+width:300px;
+margin-bottom: 20px;
+padding: 10px 20px;
+border-radius: 7px;}
+
+ input {
+   width: 90%; }
